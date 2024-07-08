@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AhmedSignalR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964abe0a9d2a2356116fbde19b084ebc748fd3aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e701d20da6fea8da90d9978d4ad7d3a6692a615")]
 [assembly: System.Reflection.AssemblyProductAttribute("AhmedSignalR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AhmedSignalR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
