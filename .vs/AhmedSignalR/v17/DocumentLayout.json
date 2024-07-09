@@ -1,117 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ahmed\\SignalR\\AhmedSignalR\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\ahmedsignalr\\wwwroot\\js\\usercount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\wwwroot\\js\\usercount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\ahmedsignalr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\ahmedsignalr\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\ahmedsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\ahmedsignalr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\ahmedsignalr\\ahmedsignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\ahmedsignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Program.cs",
-              "RelativeDocumentMoniker": "AhmedSignalR\\Program.cs",
-              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Program.cs",
-              "RelativeToolTip": "AhmedSignalR\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T19:15:16.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserCount.js",
-              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\wwwroot\\js\\UserCount.js",
-              "RelativeDocumentMoniker": "AhmedSignalR\\wwwroot\\js\\UserCount.js",
-              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\wwwroot\\js\\UserCount.js",
-              "RelativeToolTip": "AhmedSignalR\\wwwroot\\js\\UserCount.js",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-04T03:56:12.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AhmedSignalR\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AhmedSignalR\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAawC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T03:52:40.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AhmedSignalR\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AhmedSignalR\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T03:51:38.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserHub.cs",
-              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Hubs\\UserHub.cs",
-              "RelativeDocumentMoniker": "AhmedSignalR\\Hubs\\UserHub.cs",
-              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\Hubs\\UserHub.cs",
-              "RelativeToolTip": "AhmedSignalR\\Hubs\\UserHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T05:12:36.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AhmedSignalR.csproj",
-              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\AhmedSignalR.csproj",
-              "RelativeDocumentMoniker": "AhmedSignalR\\AhmedSignalR.csproj",
-              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\AhmedSignalR\\AhmedSignalR.csproj",
-              "RelativeToolTip": "AhmedSignalR\\AhmedSignalR.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-03T05:10:07.41Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
