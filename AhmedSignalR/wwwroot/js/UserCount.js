@@ -6,14 +6,17 @@ var connectionUserCount = new signalR.HubConnectionBuilder()
 
 //connect to methods that hub invokes aka receive notfications from hub
 connectionUserCount.on("updateTotalViews", (value) => {
-    debugger;
     $("#totalViewsCounter").text(value.toString());
+});
+
+connectionUserCount.on("updateTotalUsers", (value) => {
+    $("#totalUsersCounter").text(value.toString());
 });
  
 // 2- invoke hub methods aka send notification to hub
 function newWindowLoadedOnClient()
 {
-    connectionUserCount.invoke("NewWindowLoaded");
+    connectionUserCount.invoke("NewWindowLoaded").then((value) => console.log(value));
 }
 
 function fulfield() {
