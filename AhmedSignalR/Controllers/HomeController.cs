@@ -39,7 +39,7 @@ namespace AhmedSignalR.Controllers
 
 
 
-        public IActionResult Privacy()
+        public IActionResult Notification()
         {
             return View();
         }

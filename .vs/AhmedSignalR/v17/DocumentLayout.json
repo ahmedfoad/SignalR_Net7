@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\signalr_net7\\ahmedsignalr\\wwwroot\\js\\notification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\wwwroot\\js\\notification.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\signalr_net7\\ahmedsignalr\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|d:\\ahmed\\signalr\\ahmedsignalr\\signalr_net7\\ahmedsignalr\\views\\home\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{225C9A03-C747-4598-B04E-FC0F6B897F86}|AhmedSignalR\\AhmedSignalR.csproj|solutionrelative:ahmedsignalr\\views\\home\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "AhmedSignalR\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "AhmedSignalR\\Hubs\\NotificationHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:04:48.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notification.cshtml",
+              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\Views\\Home\\Notification.cshtml",
+              "RelativeDocumentMoniker": "AhmedSignalR\\Views\\Home\\Notification.cshtml",
+              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\Views\\Home\\Notification.cshtml",
+              "RelativeToolTip": "AhmedSignalR\\Views\\Home\\Notification.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:03:10.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "notification.js",
+              "DocumentMoniker": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\wwwroot\\js\\notification.js",
+              "RelativeDocumentMoniker": "AhmedSignalR\\wwwroot\\js\\notification.js",
+              "ToolTip": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\wwwroot\\js\\notification.js",
+              "RelativeToolTip": "AhmedSignalR\\wwwroot\\js\\notification.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-11T17:43:55.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

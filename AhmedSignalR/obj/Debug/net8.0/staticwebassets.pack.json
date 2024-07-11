@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\js\\deathlyHallows.js"
     },
     {
+      "Id": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\wwwroot\\js\\houseGroup.js",
+      "PackagePath": "staticwebassets\\js\\houseGroup.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
       "Id": "D:\\Ahmed\\SignalR\\AhmedSignalR\\SignalR_Net7\\AhmedSignalR\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
